@@ -1,0 +1,9 @@
+.textCenter {
+    text-align: center !important;
+    display: block !important;
+    margin: auto !important;
+    margin-top: 30px !important;
+}
+.marginBottom{
+    margin-bottom: 30px !important;
+}
